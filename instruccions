@@ -1,3 +1,5 @@
+Instrucciones para Instalar y correr el Chat en cualquier maquina
+
 1- Instalar MYSQL-Server en ubuntu
 2- Configurar contraseña como "admin"(se puede cambiar por otra si se desea)
 3- Ejecutar mysql -u root -p (passworld: "admin")
